@@ -1,0 +1,14 @@
+/* Basic styles for the App component */
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background-color: #f0f0f0; /* Match the global background color */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: var(--primary-color); /* Use primary color for headings */
+}
+
+button {
+    cursor: pointer;
+}

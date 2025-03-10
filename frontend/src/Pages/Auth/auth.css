@@ -1,0 +1,10 @@
+.lnk{
+    text-decoration: none;
+}
+.btnStyle {
+    background-color: var(--primary-color); /* Updated background color */
+    border: 2px solid var(--primary-color); /* Updated border color */
+}
+.btnStyle:hover {
+    background-color: darken(var(--primary-color), 10%); /* Updated hover background color */
+}
